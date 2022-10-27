@@ -19,7 +19,7 @@ dependencies:
     cache_directories:
         - "node_modules"
 
-machine:
+
     node:
         version: 6.1.0
 

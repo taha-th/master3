@@ -19,10 +19,6 @@ dependencies:
     cache_directories:
         - "node_modules"
 
-
-    node:
-        version: 6.1.0
-
 general:
     branches:
         ignore:
